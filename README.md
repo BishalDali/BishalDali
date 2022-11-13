@@ -31,7 +31,6 @@
 
 ![snake gif](https://github.com/BishalDali/BishalDali/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishaldali&show_icons=true&locale=en&layout=compact" alt="bishaldali" /></p>
 
 <div align="center">
   
